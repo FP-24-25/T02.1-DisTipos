@@ -1,4 +1,4 @@
-# T01.5-DisTipos
+# T02.1-DisTipos
 Proyecto para trabajar el diseño de tipos
 
 Se quieren implementar los siguientes tipos para tres aplicaciones distintas para la gestión de cursos on line, para la gestión de una biblioteca, y la gestión de estadísticas sobre partidos de fútbol de una liga de futbol:
